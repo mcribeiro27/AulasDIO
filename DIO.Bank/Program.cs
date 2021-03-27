@@ -100,7 +100,7 @@ namespace DIO.Bank
                                          saldo: entradaSaldo,
                                          credito: entradaCredito,
                                          nome: entradaNome);
-            listContas.add(novaConta);
+            listContas.dd(novaConta);
 
         }
 
